@@ -1,0 +1,7 @@
+name: Troll-Plugin
+author: NOIOT
+version: 0.1
+main: de.noiot.trollplugin.main.Main
+commands:
+    troll:
+    letstroll:
